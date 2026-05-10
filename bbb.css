@@ -1,0 +1,80 @@
+p{
+    color: rgb(36, 33, 33);
+    font-size: small;
+    text-align: center;
+    
+}
+h1{
+    font-size: xx-large;
+    color: #678bb1;
+    text-align: center;
+    background-color: orange;
+}
+body{
+    background-color: rgb(255, 223, 184);
+
+}
+  
+h3{
+    text-align: center;
+    color: #2a3030;
+    background-color: #5b9898;
+}
+div{
+    text-align: center;
+}
+.footer{
+    overflow: auto;
+     background-color: rgb(255, 156, 156);
+}
+.menu{
+    overflow: auto;
+     background-color: rgb(255, 156, 156);
+}
+.menu ul{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a {
+    display: inline-block;
+    height: auto;
+    width: 150px;
+    color: #333333;
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.footer ul{
+     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.footer li{
+    display: inline-block;
+    text-align: center;
+}
+.footer li a {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    color: #333333;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
